@@ -1,0 +1,10 @@
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.csprojResolveAssemblyReference.cache
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.Form1.resources
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.csproj.CoreCompileInputs.cache
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\bin\Debug\monedis.exe.config
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\bin\Debug\monedis.exe
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\bin\Debug\monedis.pdb
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.exe
+c:\users\isaac\documents\visual studio 2017\Projects\monedis\monedis\obj\Debug\monedis.pdb
