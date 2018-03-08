@@ -22,7 +22,7 @@ namespace Vectors
         {
             for(int i = 0; i < _v.Length; i++)
             {
-                _v[i] += i;
+                _v[i] = i + 1;
             }
 
             return _v.Length;
@@ -30,12 +30,12 @@ namespace Vectors
 
         public int llenarAlwatorio(int limite)
         {
-            limite += _v.Length;
+            limite = _v.Length;
             
 
             for( int i = 0; i < limite; i++)
             {
-                _v[i] += rnd.Next(_v.Length);
+                _v[i] += rnd.Next(limite);
             }
 
             return _v.Length;
@@ -87,10 +87,14 @@ namespace Vectors
         public string girar()
         {
             string cosa = "";
+            int min = _v.Min();
+            int max = _v.Max();
             for(int i = 0; i < _v.Length; i++)
             {
-                cosa += "[" + i + "]=" + _v.Min().ToString() + Environment.NewLine;
+                max = min;
+                
 
+                cosa += "[" + i + "]=" + _v[i].ToString()  + Environment.NewLine;
             }
             return cosa;
 
