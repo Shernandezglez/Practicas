@@ -20,7 +20,7 @@ namespace Vectors
 
         public int llenar()
         {
-            for(int i = 0; i < _v.Length  ; i++)
+            for(int i = 0; i < _v.Length; i++)
             {
                 _v[i] += i;
             }
@@ -63,20 +63,37 @@ namespace Vectors
             return cosa;
         }
 
-        public void sumar()
+        public int sumar()
         {
+            int sum = 0;
             for (int i = 0; i < _v.Length; i++)
             {
-                _v[i] = _v.Sum();
+                sum = _v.Sum();
             }
+            return sum;
         }
 
-        public void promediar()
+        public double promediar()
         {
+            double prom = 0.0;
             for(int i = 0; i < _v.Length; i++)
             {
-                
+                prom = _v.Sum() / _v.Length;
             }
+            return prom;
+
+        }
+
+        public string girar()
+        {
+            string cosa = "";
+            for(int i = 0; i < _v.Length; i++)
+            {
+                cosa += "[" + i + "]=" + _v.Min().ToString() + Environment.NewLine;
+
+            }
+            return cosa;
+
         }
 
 

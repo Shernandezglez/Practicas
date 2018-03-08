@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\bin\Debug\Vectors.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\bin\Debug\Vectors.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Vectors\Vectors\obj\Debug\Vectors.pdb
