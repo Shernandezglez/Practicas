@@ -40,6 +40,8 @@
             this.btnGirarArriba = new System.Windows.Forms.Button();
             this.txtSuma = new System.Windows.Forms.TextBox();
             this.txtPromedio = new System.Windows.Forms.TextBox();
+            this.btnGirarAbajo = new System.Windows.Forms.Button();
+            this.btnInvertir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCrearVector
@@ -133,7 +135,7 @@
             this.btnGirarArriba.Name = "btnGirarArriba";
             this.btnGirarArriba.Size = new System.Drawing.Size(75, 23);
             this.btnGirarArriba.TabIndex = 9;
-            this.btnGirarArriba.Text = "girar";
+            this.btnGirarArriba.Text = "girar Arriba";
             this.btnGirarArriba.UseVisualStyleBackColor = true;
             this.btnGirarArriba.Click += new System.EventHandler(this.btnGirarArriba_Click);
             // 
@@ -151,11 +153,33 @@
             this.txtPromedio.Size = new System.Drawing.Size(100, 20);
             this.txtPromedio.TabIndex = 11;
             // 
+            // btnGirarAbajo
+            // 
+            this.btnGirarAbajo.Location = new System.Drawing.Point(189, 403);
+            this.btnGirarAbajo.Name = "btnGirarAbajo";
+            this.btnGirarAbajo.Size = new System.Drawing.Size(75, 23);
+            this.btnGirarAbajo.TabIndex = 12;
+            this.btnGirarAbajo.Text = "girar Abajo";
+            this.btnGirarAbajo.UseVisualStyleBackColor = true;
+            this.btnGirarAbajo.Click += new System.EventHandler(this.btnGirarAbajo_Click);
+            // 
+            // btnInvertir
+            // 
+            this.btnInvertir.Location = new System.Drawing.Point(34, 372);
+            this.btnInvertir.Name = "btnInvertir";
+            this.btnInvertir.Size = new System.Drawing.Size(88, 23);
+            this.btnInvertir.TabIndex = 13;
+            this.btnInvertir.Text = "Invertir Vector";
+            this.btnInvertir.UseVisualStyleBackColor = true;
+            this.btnInvertir.Click += new System.EventHandler(this.btnInvertir_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(408, 438);
+            this.Controls.Add(this.btnInvertir);
+            this.Controls.Add(this.btnGirarAbajo);
             this.Controls.Add(this.txtPromedio);
             this.Controls.Add(this.txtSuma);
             this.Controls.Add(this.btnGirarArriba);
@@ -189,6 +213,8 @@
         private System.Windows.Forms.Button btnGirarArriba;
         private System.Windows.Forms.TextBox txtSuma;
         private System.Windows.Forms.TextBox txtPromedio;
+        private System.Windows.Forms.Button btnGirarAbajo;
+        private System.Windows.Forms.Button btnInvertir;
     }
 }
 

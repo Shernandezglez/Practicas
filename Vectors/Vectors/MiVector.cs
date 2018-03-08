@@ -78,26 +78,43 @@ namespace Vectors
             double prom = 0.0;
             for(int i = 0; i < _v.Length; i++)
             {
-                prom = _v.Sum() / _v.Length;
+                prom = _v.Sum() / (double)_v.Length;
             }
             return prom;
 
         }
 
-        public string girar()
+        public void girarArriba()
         {
-            string cosa = "";
-            int min = _v.Min();
-            int max = _v.Max();
-            for(int i = 0; i < _v.Length; i++)
+            int min = _v[0];
+            for(int i = 0; i < _v.Length -1; i++)
             {
-                max = min;
-                
+                _v[i] = _v[i + 1]; 
 
-                cosa += "[" + i + "]=" + _v[i].ToString()  + Environment.NewLine;
+
             }
-            return cosa;
+            _v[_v.Length - 1] = min;
+        }
 
+        public void girarAbajo()
+        {
+            int max = _v[_v.Length - 1];
+            for(int i = _v.Length - 1; i > 0; i--)
+            {
+                _v[i] = _v[i - 1];
+            }
+            _v[0] = max;
+        }
+
+        public void invertirVector()
+        {
+            int v = 0;
+            for(int i = 0, j = _v.Length-1; i < _v.Length/2; i++, j--)
+            {
+                v = _v[i];
+                _v[i] = _v[j];
+                _v[j] = v;
+            }
         }
 
 

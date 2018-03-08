@@ -42,20 +42,18 @@ namespace Vectors
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
-            vector.mostrar();
-            txtInfo.Text += vector.mostrar().ToString() + Environment.NewLine;
+            txtInfo.Text = vector.mostrar().ToString();
         }
 
         private void btnMostrarInverso_Click(object sender, EventArgs e)
         {
-            vector.mostrarInverso();
-            txtInfo.Text += vector.mostrarInverso().ToString() + Environment.NewLine;
+            
+            txtInfo.Text = vector.mostrarInverso().ToString();
         }
 
         private void btnSumarVector_Click(object sender, EventArgs e)
         {
             txtSuma.Clear();
-            vector.sumar();
             txtSuma.Text += vector.sumar().ToString();
         }
 
@@ -63,14 +61,23 @@ namespace Vectors
         {
             
             txtPromedio.Clear();
-            vector.promediar();
             txtPromedio.Text += vector.promediar().ToString();
         }
 
         private void btnGirarArriba_Click(object sender, EventArgs e)
         {
-            vector.girar();
-            txtInfo.Text += vector.girar().ToString() + Environment.NewLine;
+            vector.girarArriba();
+           
+        }
+
+        private void btnGirarAbajo_Click(object sender, EventArgs e)
+        {
+            vector.girarAbajo();
+        }
+
+        private void btnInvertir_Click(object sender, EventArgs e)
+        {
+            vector.invertirVector();
         }
     }
 }
