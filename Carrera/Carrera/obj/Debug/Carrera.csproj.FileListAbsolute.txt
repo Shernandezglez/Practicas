@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\bin\Debug\Carrera.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\bin\Debug\Carrera.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\bin\Debug\Carrera.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Carrera\Carrera\obj\Debug\Carrera.pdb
