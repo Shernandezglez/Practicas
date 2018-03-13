@@ -1,0 +1,10 @@
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\bin\Debug\LanzamientoDeDado.exe.config
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\bin\Debug\LanzamientoDeDado.exe
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\bin\Debug\LanzamientoDeDado.pdb
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.csprojResolveAssemblyReference.cache
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.Form1.resources
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.Properties.Resources.resources
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.csproj.GenerateResource.Cache
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.csproj.CoreCompileInputs.cache
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.exe
+C:\Users\20137334\source\repos\LanzamientoDeDado\LanzamientoDeDado\obj\Debug\LanzamientoDeDado.pdb
