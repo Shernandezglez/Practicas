@@ -31,7 +31,7 @@
             this.btnLanzarUnaVez = new System.Windows.Forms.Button();
             this.txtResultados = new System.Windows.Forms.TextBox();
             this.btnCienLanzamientos = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnSuma = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnLanzarUnaVez
@@ -62,21 +62,22 @@
             this.btnCienLanzamientos.UseVisualStyleBackColor = true;
             this.btnCienLanzamientos.Click += new System.EventHandler(this.btnCienLanzamientos_Click);
             // 
-            // button3
+            // btnSuma
             // 
-            this.button3.Location = new System.Drawing.Point(184, 12);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnSuma.Location = new System.Drawing.Point(184, 12);
+            this.btnSuma.Name = "btnSuma";
+            this.btnSuma.Size = new System.Drawing.Size(75, 23);
+            this.btnSuma.TabIndex = 3;
+            this.btnSuma.Text = "1*2*100";
+            this.btnSuma.UseVisualStyleBackColor = true;
+            this.btnSuma.Click += new System.EventHandler(this.btnSuma_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.button3);
+            this.Controls.Add(this.btnSuma);
             this.Controls.Add(this.btnCienLanzamientos);
             this.Controls.Add(this.txtResultados);
             this.Controls.Add(this.btnLanzarUnaVez);
@@ -92,7 +93,7 @@
         private System.Windows.Forms.Button btnLanzarUnaVez;
         private System.Windows.Forms.TextBox txtResultados;
         private System.Windows.Forms.Button btnCienLanzamientos;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnSuma;
     }
 }
 
