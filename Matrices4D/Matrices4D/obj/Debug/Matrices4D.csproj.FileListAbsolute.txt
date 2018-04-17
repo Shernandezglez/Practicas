@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\bin\Debug\Matrices4D.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\bin\Debug\Matrices4D.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\bin\Debug\Matrices4D.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Matrices4D\Matrices4D\obj\Debug\Matrices4D.csprojResolveAssemblyReference.cache

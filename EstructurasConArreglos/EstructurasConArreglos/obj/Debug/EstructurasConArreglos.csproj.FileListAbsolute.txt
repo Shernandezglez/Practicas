@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\bin\Debug\EstructurasConArreglos.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\bin\Debug\EstructurasConArreglos.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\bin\Debug\EstructurasConArreglos.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\EstructurasConArreglos\EstructurasConArreglos\obj\Debug\EstructurasConArreglos.pdb
