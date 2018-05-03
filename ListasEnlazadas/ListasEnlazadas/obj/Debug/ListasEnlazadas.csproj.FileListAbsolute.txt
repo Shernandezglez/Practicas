@@ -1,0 +1,10 @@
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\ListasEnlazadas.exe.config
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\ListasEnlazadas.exe
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\ListasEnlazadas.pdb
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.csprojResolveAssemblyReference.cache
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.Form1.resources
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.Properties.Resources.resources
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.csproj.GenerateResource.Cache
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.exe
+C:\Users\20137334\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.pdb
