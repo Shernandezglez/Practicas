@@ -34,6 +34,10 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.btnListar = new System.Windows.Forms.Button();
             this.btnBuscar = new System.Windows.Forms.Button();
+            this.btnListarInverso = new System.Windows.Forms.Button();
+            this.btnEliminarPrimero = new System.Windows.Forms.Button();
+            this.btnEliminarUltimo = new System.Windows.Forms.Button();
+            this.btnInvertir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -89,11 +93,55 @@
             this.btnBuscar.Text = "buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
             // 
+            // btnListarInverso
+            // 
+            this.btnListarInverso.Location = new System.Drawing.Point(199, 101);
+            this.btnListarInverso.Name = "btnListarInverso";
+            this.btnListarInverso.Size = new System.Drawing.Size(75, 23);
+            this.btnListarInverso.TabIndex = 7;
+            this.btnListarInverso.Text = "ListarInverso";
+            this.btnListarInverso.UseVisualStyleBackColor = true;
+            this.btnListarInverso.Click += new System.EventHandler(this.btnListarInverso_Click);
+            // 
+            // btnEliminarPrimero
+            // 
+            this.btnEliminarPrimero.Location = new System.Drawing.Point(295, 167);
+            this.btnEliminarPrimero.Name = "btnEliminarPrimero";
+            this.btnEliminarPrimero.Size = new System.Drawing.Size(93, 23);
+            this.btnEliminarPrimero.TabIndex = 8;
+            this.btnEliminarPrimero.Text = "EliminarPrimero";
+            this.btnEliminarPrimero.UseVisualStyleBackColor = true;
+            this.btnEliminarPrimero.Click += new System.EventHandler(this.btnEliminarPrimero_Click);
+            // 
+            // btnEliminarUltimo
+            // 
+            this.btnEliminarUltimo.Location = new System.Drawing.Point(295, 213);
+            this.btnEliminarUltimo.Name = "btnEliminarUltimo";
+            this.btnEliminarUltimo.Size = new System.Drawing.Size(93, 23);
+            this.btnEliminarUltimo.TabIndex = 9;
+            this.btnEliminarUltimo.Text = "EliminarUltimo";
+            this.btnEliminarUltimo.UseVisualStyleBackColor = true;
+            this.btnEliminarUltimo.Click += new System.EventHandler(this.btnEliminarUltimo_Click);
+            // 
+            // btnInvertir
+            // 
+            this.btnInvertir.Location = new System.Drawing.Point(295, 256);
+            this.btnInvertir.Name = "btnInvertir";
+            this.btnInvertir.Size = new System.Drawing.Size(93, 23);
+            this.btnInvertir.TabIndex = 10;
+            this.btnInvertir.Text = "InvertirLista";
+            this.btnInvertir.UseVisualStyleBackColor = true;
+            this.btnInvertir.Click += new System.EventHandler(this.btnInvertir_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(468, 403);
+            this.Controls.Add(this.btnInvertir);
+            this.Controls.Add(this.btnEliminarUltimo);
+            this.Controls.Add(this.btnEliminarPrimero);
+            this.Controls.Add(this.btnListarInverso);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnListar);
             this.Controls.Add(this.textBox2);
@@ -115,6 +163,10 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button btnListar;
         private System.Windows.Forms.Button btnBuscar;
+        private System.Windows.Forms.Button btnListarInverso;
+        private System.Windows.Forms.Button btnEliminarPrimero;
+        private System.Windows.Forms.Button btnEliminarUltimo;
+        private System.Windows.Forms.Button btnInvertir;
     }
 }
 

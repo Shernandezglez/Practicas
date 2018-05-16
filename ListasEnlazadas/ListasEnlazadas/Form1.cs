@@ -30,5 +30,25 @@ namespace ListasEnlazadas
         {
             textBox2.Text = catalogo.listar();
         }
+
+        private void btnListarInverso_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = catalogo.listarInverso();
+        }
+
+        private void btnEliminarPrimero_Click(object sender, EventArgs e)
+        {
+            catalogo.eliminarPrimero();
+        }
+
+        private void btnEliminarUltimo_Click(object sender, EventArgs e)
+        {
+            catalogo.eliminarUltimo();
+        }
+
+        private void btnInvertir_Click(object sender, EventArgs e)
+        {
+            catalogo.invertirLista();
+        }
     }
 }

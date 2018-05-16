@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -53,13 +54,61 @@ namespace ListasEnlazadas
             string cdn = "";
             ClaseBase temp = inicio;
 
-            while(temp != null)
+            while (temp != null)
             {
                 cdn += temp.ToString() + "\r\n";
                 temp = temp.siguiente;
             }
 
+
+
+
             return cdn;
+        }
+
+        public string listarInverso()
+        {
+            string cdn = "";
+            ClaseBase temp = inicio;
+            
+
+            while (temp != null)
+            {
+                
+                cdn = temp.ToString() + "\r\n" + cdn;
+                temp = temp.siguiente;
+
+            }
+            return cdn;
+        }
+
+        public void eliminarPrimero()
+        {
+
+            inicio = inicio.siguiente;
+        }
+
+        public void eliminarUltimo()
+        {
+            ClaseBase temp = inicio.siguiente;
+
+            temp.siguiente = null;
+        }
+
+        public void invertirLista()
+        {
+            ClaseBase p = null;
+            ClaseBase c = inicio;
+            ClaseBase n;
+
+            while (c != null)
+            {
+                n = c.siguiente;
+                c.siguiente = p;
+                p = c;
+                c = n;
+            }
+            inicio = p;
         }
     }
 }
