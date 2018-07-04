@@ -31,7 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtExp = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtResultado = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -61,12 +61,12 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox2
+            // txtResultado
             // 
-            this.textBox2.Location = new System.Drawing.Point(121, 140);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 3;
+            this.txtResultado.Location = new System.Drawing.Point(121, 140);
+            this.txtResultado.Name = "txtResultado";
+            this.txtResultado.Size = new System.Drawing.Size(100, 20);
+            this.txtResultado.TabIndex = 3;
             // 
             // label2
             // 
@@ -83,7 +83,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(355, 289);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtExp);
             this.Controls.Add(this.label1);
@@ -99,7 +99,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtExp;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtResultado;
         private System.Windows.Forms.Label label2;
     }
 }

@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
 
         public override string ToString()
         {
-            return "Num: " + _num;
+            return "" + _num;
         }
     }
 }

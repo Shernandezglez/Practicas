@@ -33,7 +33,7 @@ namespace WindowsFormsApp1
 
         public override string ToString()
         {
-            return "char: " + _exp;
+            return "" + _exp;
         }
 
     }
